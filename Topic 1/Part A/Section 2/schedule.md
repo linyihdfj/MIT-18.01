@@ -1,0 +1,5 @@
+- Clip 1: Example 1: y=1/x
+- Clip 2: Harder Problem: Triangles Under the Graph of y=1/x
+- Clip 3: Notation for Derivatives
+- Clip 4: Example 2: y=xn
+- Problem and solution
