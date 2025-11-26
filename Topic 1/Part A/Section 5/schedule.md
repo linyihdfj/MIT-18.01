@@ -1,0 +1,5 @@
+- Clip 1: Jump Discontinuities
+- Clip 2: Removable Discontinuities
+- Clip 3: Infinite Discontinuities
+- Clip 4: Other (Ugly) Discontinuities
+- Clip 5: Differentiable Implies Continuous

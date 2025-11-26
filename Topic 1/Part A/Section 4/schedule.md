@@ -1,0 +1,3 @@
+- Clip 1: Limits
+- Clip 2: Continuity
+- Recitation：Smoothing a Piecewise Function

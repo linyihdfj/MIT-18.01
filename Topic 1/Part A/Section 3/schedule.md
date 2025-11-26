@@ -1,0 +1,4 @@
+- Clip 1: Introduction to Rates of Change
+- Clip 2: Rates of Change
+- Clip 3: Physical Interpretation of Derivatives
+- Clip 4: Physical Interpretation of Derivatives, Continued
