@@ -1,0 +1,5 @@
+- Clip 1: Introduction of Product and Quotient Rules
+- Clip 2: Introduction to General Rules for Differentiation
+- Clip 3: Product Rule
+- Recitation: Product Rule
+- Problem: Smoothing a Piecewise Polynomial

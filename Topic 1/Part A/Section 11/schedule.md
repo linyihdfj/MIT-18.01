@@ -1,0 +1,4 @@
+- Clip 1: Chain Rule
+- Clip 2: Example: $\sin(10t)$
+- Recitation: Chain Rule
+- Problem: Do We Need the Quotient Rule?

@@ -1,0 +1,4 @@
+- Clip 1: Limit of sin(x)/x
+- Clip 2: Limit of (1-cos(x))/x
+- Clip 3: Questions and Answers
+- Clip 4: Derivative of sin(x), Geometric Proof

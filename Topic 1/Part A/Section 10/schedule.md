@@ -1,0 +1,4 @@
+- Clip 1: Quotient Rule
+- Clip 2: Example: Reciprocals
+- Recitation: Quotient Rule
+- Problem: Quotient Rule Practice

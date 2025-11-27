@@ -1,0 +1,3 @@
+- Clip 1: Higher Derivatives
+- Clip 2: Example: Dnxn
+- Problem: Repeated Differentiation of Sine and Cosine (using [mathlet](https://ocw.mit.edu/ans7870/18/18.01SC/f10/mathlets/creatingDerivative.html))

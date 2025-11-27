@@ -1,0 +1,2 @@
+- Clip 1: Derivative of sin(x), Algebraic Proof
+- Clip 2: Derivative of cos(x)

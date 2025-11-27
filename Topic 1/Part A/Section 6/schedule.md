@@ -1,0 +1,2 @@
+- Clip 1: Introduction to Differentiation
+- Clip 2: Derivative of the Sum of Two Functions
