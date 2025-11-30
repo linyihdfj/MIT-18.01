@@ -1,0 +1,6 @@
+- Clip 1: Derivative of the Inverse of a Function
+- Clip 2: Derivative of the Arctan Function
+- Recitation 1: Graphing the Arctan Function
+- Clip 3: Derivative of the Arcsin Function
+- Recitation 2: Graphing the Arcsin Function
+- Problem: Derivative of the Square Root Function

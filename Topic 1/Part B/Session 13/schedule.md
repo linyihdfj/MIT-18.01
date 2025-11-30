@@ -1,0 +1,3 @@
+- Clip 1: Introduction to Implicit Differentiatio
+- Clip 2: Implicit Differentiation: Rational Exponent Rule
+- Problem: Implicit Differentiation and the Chain Rule

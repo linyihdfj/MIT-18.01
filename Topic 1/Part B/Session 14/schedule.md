@@ -1,0 +1,5 @@
+- Clip 1: Slope of Tangent to Circle: Direct
+- Clip 2: Slope of Tangent to Circle: Implicit
+- Clip 3: Example: y4+xy2-2=0
+- Recitation: Implicit Differentiation
+- Problem: Implicit Differentiation and the Second

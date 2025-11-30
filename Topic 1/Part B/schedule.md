@@ -1,0 +1,9 @@
+- Session 13: Implicit Differentiation
+- Session 14: Examples of Implicit Differentiation
+- Session 15: Implicit Differentiation and Inverse Functions
+- Session 16: The Derivative of a{{< sup “x” >}}
+- Session 17: The Exponential Function, its Derivative, and its Inverse
+- Session 18: Derivatives of other Exponential Functions
+- Session 19: An Interesting Limit Involving e
+- Session 20: Hyperbolic Trig Functions
+- Problem Set 2
